@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emin</h1>
-<h3 align="center">A passionate Full Stack Web Developer and Youtube Content Creator from Turkey</h3>
+<h3 align="center">A passionate React Web Developer and Youtube Content Creator from Turkey</h3>
 
 - 🎥 A movie watchlist with TMDB [my-watchlist](https://github.com/eminbasbayan/my-watchlist)
 
