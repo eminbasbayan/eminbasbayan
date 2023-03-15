@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emin</h1>
 <h3 align="center">A passionate Full Stack Web Developer and Youtube Content Creator from Turkey</h3>
 
-- 🎥 A movie watchlist with TMDB [my-watchlist](https://github.com/eminbasbayan/my-watchlist)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/eminbasbayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eminbasbayan" height="30" width="40" /></a>
